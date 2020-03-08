@@ -1,0 +1,10 @@
+2020-03-08 16:59:01 INFO  Paymentdefinitions:30 - ----------------------------Start of Scenario--------------------------------
+2020-03-08 16:59:01 INFO  Paymentdefinitions:31 - Start the browser and Clear the cookies
+2020-03-08 16:59:01 INFO  Driverconfiguration:22 - In Driverconfiguration
+2020-03-08 16:59:04 INFO  Payment:71 - Launch the url on browser to load the Craftsnote homepage
+2020-03-08 16:59:10 INFO  Payment:78 - wait for all the elements on the page to load
+2020-03-08 17:00:31 INFO  Paymentdefinitions:30 - ----------------------------Start of Scenario--------------------------------
+2020-03-08 17:00:31 INFO  Paymentdefinitions:31 - Start the browser and Clear the cookies
+2020-03-08 17:00:31 INFO  Driverconfiguration:22 - In Driverconfiguration
+2020-03-08 17:00:34 INFO  Payment:71 - Launch the url on browser to load the Craftsnote homepage
+2020-03-08 17:00:40 INFO  Payment:78 - wait for all the elements on the page to load
