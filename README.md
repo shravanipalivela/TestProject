@@ -1,4 +1,4 @@
-# Test_Automation_Verivox
+# Test_Automation
 Test Automation Using Cucumber,Page Object Model,TestNg,Maven,JAVA 8,extent reports
 
 # Pre-Requisites
